@@ -24,7 +24,7 @@ We will use this repo to test functionality:
 
 [Starter Repo](https://github.com/LambdaSchool/rails-mini-course-sprint1-mod4-rails-base-app)
 
-*Note: cd into the repo after cloning and run `rm -rf .git` to avoid git submodule usage*
+_Note: cd into the repo after cloning and run `rm -rf .git` to avoid git submodule usage_
 
 1. Clone the [repo](https://github.com/LambdaSchool/rails-mini-course-sprint1-mod4-rails-base-app) and get it running.
 2. Add the `factory_bot` gem to the development and test group.
