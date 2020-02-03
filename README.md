@@ -6,7 +6,7 @@ Create a gem named `archiver` which will add `archive`, `restore` and `archived?
 
 ### Step One - Create Gem
 
-1. Create a gem named archiver.
+1. Create a gem named archiver. ✅
 2. Ensure it has a valid gemspec file.
 3. Add `activerecord` as a runtime dependency.
 
